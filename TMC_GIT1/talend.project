@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_dH0TkYyAEe2c4rG8902H_A" label="TMC_GIT1" description="connecte talend studio and cloud to Git" language="java" technicalLabel="TMC_GIT1" author="_dH0TkoyAEe2c4rG8902H_A" productVersion="Talend Cloud API Services Platform-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Hossamfakhori/TMC_GIT1&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+  <TalendProperties:Project xmi:id="_dH0TkYyAEe2c4rG8902H_A" label="TMC_GIT1" description="connecte talend studio and cloud to Git" language="java" technicalLabel="TMC_GIT1" author="_dH0TkoyAEe2c4rG8902H_A" productVersion="Talend Cloud API Services Platform-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Hossamfakhori/TMC_GIT1&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_dKXRQIyAEe2c4rG8902H_A" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_dH0TkoyAEe2c4rG8902H_A" login="hoss.fakhori@trial42392.us.talend.com" firstName="Adam" lastName="Brown" type="DQ"/>
